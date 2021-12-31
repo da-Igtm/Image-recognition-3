@@ -1,0 +1,24 @@
+body{
+    background-color: ghostwhite;  
+  }
+  .heading{
+      width: 80%;
+      font-size: 22px;
+  }
+  p{
+  font-size: 22px;
+  }
+  #camera{
+  border: 2px dotted black;
+  width: 350px;
+  height: 300px;
+  }
+  .name_objects{
+  color: rebeccapurple;
+  }
+  #object_name{
+      color: salmon;
+  }
+  #accuracy_score{
+   color: cyan;   
+  }
